@@ -8,7 +8,7 @@ steps:
   - --ciphertext-file=.env.enc
   - --plaintext-file=.env
   - --location=global
-  - --keyring=myproject
+  - --keyring=otherly-love-main
   - --key=cloudbuild-env
 
 # Install
